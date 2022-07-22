@@ -96,7 +96,6 @@ public class Main {
         Dev devJoao = new Dev();
         devJoao.setNome("João");
         devJoao.inscreverBootcamp(bootcamp);
-        devJoao.calcularTotalXP();
         System.out.println("Conteúdos Inscritos: " + devJoao.getConteudosInscritos());
         System.out.println("Conteúdos Concluidos: " +devCamila.getConteudosConcluidos());
     }
