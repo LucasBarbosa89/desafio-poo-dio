@@ -99,5 +99,6 @@ public class Main {
         devJoao.calcularTotalXP();
         System.out.println("Conteúdos Inscritos: " + devJoao.getConteudosInscritos());
         System.out.println("Conteúdos Concluidos: " +devCamila.getConteudosConcluidos());
+        System.out.println(devJoao.calcularTotalXP());
     }
 }
